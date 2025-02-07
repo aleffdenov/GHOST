@@ -1,0 +1,2 @@
+# GHOST
+Um script bom
